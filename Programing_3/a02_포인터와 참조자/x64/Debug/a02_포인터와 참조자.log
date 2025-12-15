@@ -1,0 +1,4 @@
+﻿  02_main.cpp
+C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\a02_포인터와 참조자\02_main.cpp(37,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\a02_포인터와 참조자\02_main.cpp(38,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  a02_포인터와 참조자.vcxproj -> C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\x64\Debug\a02_포인터와 참조자.exe
