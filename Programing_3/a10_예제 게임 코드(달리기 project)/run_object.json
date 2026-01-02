@@ -1,0 +1,41 @@
+[
+  {
+    "x": 80,
+    "y": 6,
+    "shape": "cpp run project",
+    "speed": 5,
+    "jumpPower": 0,
+    "burrowDepth": 0
+  },
+  {
+    "x": 80,
+    "y": 6,
+    "shape": "speedy",
+    "speed": 1,
+    "jumpPower": 0,
+    "burrowDepth": 0
+  },
+  {
+    "x": 80,
+    "y": 6,
+    "shape": "jump",
+    "speed": 3,
+    "jumpPower": 2,
+    "burrowDepth": 0
+  },
+  {
+    "x": 80,
+    "y": 10,
+    "shape": "jump",
+    "speed": 2,
+    "jumpPower": 2,
+    "burrowDepth": 0
+  }
+  {
+    "x": 80,
+    "y": 10,
+    "shape": "burrow",
+    "speed": 4,
+    "jumpPower": 0,
+    "burrowDepth": 2
+]

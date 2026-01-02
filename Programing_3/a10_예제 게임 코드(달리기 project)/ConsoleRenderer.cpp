@@ -33,12 +33,17 @@ void ConsoleRenderer::Clear() {
     COORD coor = { 0, 0 };
     DWORD dw;
     // 설정된 너비와 높이만큼 공백으로 채움
+    CONSOLE_SCREEN_BUFFER_INFO csbi;
+    GetConsoleScreenBufferInfo(m_hScreen[m_nScreenIndex], &csbi);
+    DWORD cellCount = csbi.dwSize.X * csbi.dwSize.Y;
+
+
     FillConsoleOutputCharacter(m_hScreen[m_nScreenIndex], ' ', m_width * m_height, coor, &dw);
 }
 
 void ConsoleRenderer::Flipping() {
     SetConsoleActiveScreenBuffer(m_hScreen[m_nScreenIndex]);
-    m_nScreenIndex = !m_nScreenIndex;
+    m_nScreenIndex = (m_nScreenIndex + 1) % 2;
 }
 
 void ConsoleRenderer::Print(int x, int y, const std::string& str) {

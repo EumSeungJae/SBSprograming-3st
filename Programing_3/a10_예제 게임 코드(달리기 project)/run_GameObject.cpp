@@ -3,12 +3,10 @@
 run_GameObject::run_GameObject(
 	int x, int y, string shape, int speed, int movetick)
 	: x(x), y(y), shape(shape), speed(speed), movetick(movetick)
-{
-}
+{}
 
 run_GameObject::run_GameObject()
-	: run_GameObject(5, 5, "This is example", 3) {
-}
+	: run_GameObject(80, 5, "This is example", 3) {}
 
 void run_GameObject::update()
 {
@@ -62,7 +60,6 @@ void jump_gameObject::move()
 	{
 		if (isGround) {
 			y -= jumpPower;
-
 		}
 		else {
 			y += jumpPower;
@@ -74,46 +71,46 @@ void jump_gameObject::move()
 	run_GameObject::move();
 }
 
-//burrow_gameObject::burrow_gameObject(
-//	int x, int y, string shape, int speed, int burrowDepth, int movetick) :
-//	run_GameObject(x, y, shape, speed, movetick), burrowDepth(burrowDepth)
-//{
-//	burrowTime = 15;
-//	burrowtick = 0;
-//	isGround = true;
-//
-//
-//}
-//
-//
-//burrow_gameObject::burrow_gameObject() :run_GameObject(), burrowDepth(2)
-//{
-//	burrowTime = 15;
-//	burrowtick = 0;
-//	isGround = true;
-//}
-//
-//void burrow_gameObject::move()
-//{
-//	burrowtick++;
-//	if (burrowTime <= burrowtick) // 내가 움직이고 싶은 속도에 도달했을 때
-//	{
-//		if (isGround) {
-//			y += burrowDepth;
-//
-//		}
-//		else {
-//			y -= burrowDepth;
-//		}
-//		x++;
-//		isGround = !isGround;
-//
-//		burrowtick = 0;
-//	}
-//	run_GameObject::move();
-//
-//
-//}
+burrow_gameObject::burrow_gameObject(
+	int x, int y, string shape, int speed, int burrowDepth, int movetick) :
+	run_GameObject(x, y, shape, speed, movetick), burrowDepth(burrowDepth)
+{
+	burrowTime = 15;
+	burrowtick = 0;
+	isGround = true;
+
+
+}
+
+
+burrow_gameObject::burrow_gameObject() :run_GameObject(), burrowDepth(2)
+{
+	burrowTime = 15;
+	burrowtick = 0;
+	isGround = true;
+}
+
+void burrow_gameObject::move()
+{
+	burrowtick++;
+	if (burrowTime <= burrowtick) // 내가 움직이고 싶은 속도에 도달했을 때
+	{
+		if (isGround) {
+			y += burrowDepth;
+
+		}
+		else {
+			y -= burrowDepth;
+		}
+		x++;
+		isGround = !isGround;
+
+		burrowtick = 0;
+	}
+	run_GameObject::move();
+
+
+}
 
 dash_gameObject::dash_gameObject(
 	int x, int y, string shape, int speed, int dashpower, int movetick)
@@ -124,8 +121,7 @@ dash_gameObject::dash_gameObject(
 }
 
 dash_gameObject::dash_gameObject() : dash_gameObject(80,5,"this is example",3,1)
-{
-}
+{}
 
 void dash_gameObject::move()
 {
@@ -133,8 +129,6 @@ void dash_gameObject::move()
 	if (dashTime <= dashtick) // 내가 움직이고 싶은 속도에 도달했을 때
 	{
 		dash();
-
-		// x -= dashpower;
 
 		dashtick = 0;
 	}

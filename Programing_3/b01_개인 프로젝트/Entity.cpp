@@ -2,11 +2,10 @@
 
 // 기본 능력치 초기값
 
-Stats::Stats() {
-	maxHP = 3;
-	attack = 1;
-	speed = 1.0f;
+EntityStats::entityStats(int STR, int INT, int VIT, int AGI, int DEX) :
+	STR(STR),INT(INT),VIT(VIT),AGI(AGI),DEX(DEX) {}
 
-	expGainRate = 1.0f;
-	goldGainRate = 1.0f;
-}
+EntityStats::entityStats()
+	: EntityStats(1, 1, 1, 1, 1) {}
+
+

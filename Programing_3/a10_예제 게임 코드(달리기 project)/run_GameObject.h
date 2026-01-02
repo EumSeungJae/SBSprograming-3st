@@ -4,6 +4,11 @@
 #include "ConsoleRenderer.h"
 using namespace std;
 
+enum class moveType
+{
+	DEFAULT, JUMP, DASH, UNDEFUNED
+};
+
 class run_GameObject
 {
 private:
@@ -43,24 +48,24 @@ public:
 	virtual void move() override;
 };
 
-//class burrow_gameObject : public run_GameObject
-//{
-//private:
-//	int burrowDepth;
-//	bool isGround;
-//	int burrowTime;
-//	int burrowtick;
-//public:
-//	burrow_gameObject(
-//		int x, int y,
-//		string shape,
-//		int speed, 
-//		int burrowDepth,
-//		int movetick=0);
-//	burrow_gameObject();
-//
-//	virtual void move() override;
-//};
+class burrow_gameObject : public run_GameObject
+{
+private:
+	int burrowDepth;
+	bool isGround;
+	int burrowTime;
+	int burrowtick;
+public:
+	burrow_gameObject(
+		int x, int y,
+		string shape,
+		int speed, 
+		int burrowDepth,
+		int movetick=0);
+	burrow_gameObject();
+
+	virtual void move() override;
+};
 
 class dash_gameObject : public run_GameObject
 {
@@ -74,7 +79,7 @@ public:
 		int dashpower,
 		int movetick = 0);
 	dash_gameObject();
-	virtual void move() override;
+	void move() override;
 
 	void dash();
 };

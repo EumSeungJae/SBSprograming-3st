@@ -1,0 +1,26 @@
+[
+  {
+    "x": 80,
+    "y": 6,
+    "shape": "cpp run project",
+    "speed": 5
+  },
+  {
+    "x": 80,
+    "y": 6,
+    "shape": "speedy",
+    "speed": 1
+  },
+  {
+    "x": 80,
+    "y": 6,
+    "shape": "jump",
+    "speed": 1
+  },
+  {
+    "x": 80,
+    "y": 10,
+    "shape": "jump",
+    "speed": 2
+  }
+]

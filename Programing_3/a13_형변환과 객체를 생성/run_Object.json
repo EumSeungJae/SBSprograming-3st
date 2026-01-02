@@ -1,0 +1,56 @@
+[
+  {
+    "x": "80",
+    "y": "6",
+    "shape": "cpp run project",
+    "speed": "5",
+    "moveType": "0",
+    "jumpPower": "0",
+    "dashPower ": "0 "
+  },
+  {
+    "x": "80",
+    "y": "6",
+    "shape": "speedy",
+    "speed": "1",
+    "moveType": "0",
+    "jumpPower": "0",
+    "dashPower ": "0 "
+  },
+  {
+    "x": "80",
+    "y": "6",
+    "shape": "jump",
+    "speed": "1",
+    "moveType": "1",
+    "jumpPower": "2",
+    "dashPower ": "0 "
+  },
+  {
+    "x": "80",
+    "y": "10",
+    "shape": "jump",
+    "speed": "2",
+    "moveType": "1",
+    "jumpPower": "3",
+    "dashPower ": "0 "
+  },
+  {
+    "x": "80",
+    "y": "3",
+    "shape": "dash",
+    "speed": "3",
+    "moveType": "2",
+    "jumpPower": "0",
+    "dashPower ": "2 "
+  },
+  {
+    "x": "80",
+    "y": "4",
+    "shape": "dash",
+    "speed": "2",
+    "moveType": "2",
+    "jumpPower": "0",
+    "dashPower ": "1"
+  }
+]

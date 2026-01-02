@@ -1,38 +1,44 @@
 #pragma once
 
-class Stats {
+class EntityStats {
 private:
-	int maxHP;
-	int attack;
-	float speed;
+    int Power;
+    int Speed;
+    
+    int gain
+}entityStats;
 
-	float expGainRate;
-	float goldGainRate;
+struct EntityPower {
+    int ATK;
+    int MATK;
+    int DEF;
+    int MDEF;
+    int SPEED;
+    int DOGE;
+    int HIT;
+}entityPower;
 
-public:
-    // 생성자
-	Stats();
+struct EntityPos {
+    int x;
+    int y;
+}entityPos;
 
-    // Getter
-
-    // 능력치 증가
-
-};
-
-class Player {
+class Player : EntityStats {
 private:
 	int level;
-	float exp;
-	float expToNext;
+	float Now_exp;
+	float Max_exp;
 
-	int currentHP;
+	int Max_hp;
+    int Max_mp;
 
-	int positionX;
-	int floor;
-	bool isJumping;
+    int x;
 
-	Stats stats;
+	EntityStats stats;
 
+protected:
+    int Current_hp;
+    int current_mp;
 public:
     Player();
 
