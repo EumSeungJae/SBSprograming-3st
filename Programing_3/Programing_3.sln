@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a15_플레이어와 스킬�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a16_STL에 대한 이해 클래스 구현하기", "a16_STL에 대한 이해 클래스 구현하기\a16_STL에 대한 이해 클래스 구현하기.vcxproj", "{C44AD915-4CA4-4DB8-9A04-9C5C33047743}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a17_클래스 라이브러리", "a17_클래스 라이브러리\a17_클래스 라이브러리.vcxproj", "{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{C44AD915-4CA4-4DB8-9A04-9C5C33047743}.Release|x64.Build.0 = Release|x64
 		{C44AD915-4CA4-4DB8-9A04-9C5C33047743}.Release|x86.ActiveCfg = Release|Win32
 		{C44AD915-4CA4-4DB8-9A04-9C5C33047743}.Release|x86.Build.0 = Release|Win32
+		{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}.Debug|x64.ActiveCfg = Debug|x64
+		{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}.Debug|x64.Build.0 = Debug|x64
+		{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}.Debug|x86.Build.0 = Debug|Win32
+		{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}.Release|x64.ActiveCfg = Release|x64
+		{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}.Release|x64.Build.0 = Release|x64
+		{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}.Release|x86.ActiveCfg = Release|Win32
+		{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
