@@ -14,7 +14,7 @@ public:
 
 	bool operator>(const Monster* other);
 
-	Monster(int id,int hp, int atk, string name);
+	Monster(int id,RoomObjectType TYPE, int hp, int atk, string name);
 
 	void Attack(BattleObject* other) override;
 

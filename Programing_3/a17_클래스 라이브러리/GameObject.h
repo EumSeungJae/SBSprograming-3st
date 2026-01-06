@@ -1,5 +1,10 @@
 #pragma once
 
+#include <iostream>
+#include <string>
+
+using namespace std;
+
 enum class RoomObjectType {
 	BATTLE,
 	TREASURE,
@@ -14,9 +19,11 @@ protected:
 	RoomObjectType r_TYPE;
 	// int instanceId;
 public:
-	GameObject(int id);
+	GameObject(int id, RoomObjectType TYPE);
 
 	void SetRoomType(RoomObjectType r) { r_TYPE = r; }
+
+	virtual GameObject* GetObjectType() = 0;
 };
 
 class BattleObject : public GameObject {
@@ -24,14 +31,29 @@ protected:
 	int _hp;
 	int _atk;
 public:
-	BattleObject(int id, int hp, int atk) :
-		GameObject(id), _hp(hp), _atk(atk){ }
+	BattleObject(int id, RoomObjectType TYPE, int hp, int atk);
 
-	void Damage(int amount) { _hp -= amount; }
-	bool IsDeath() { return _hp <= 0; }
+	void Damage(int amount);
+	bool IsDeath();
 
-	virtual void Attack(BattleObject* other);
-	bool isDeath();
+	virtual void Attack(BattleObject* other) = 0;
+
+	virtual GameObject* GetObjectType() override;
+};
+
+class TreasureObject : public GameObject {
+
+protected:
+	int _gold;
+	string _content;
+
+public:
+	TreasureObject(int id, RoomObjectType TYPE, int gold, string content);
+
+	void GetTreasure();
+
+	virtual GameObject* GetObjectType() override;
+
 };
 
 

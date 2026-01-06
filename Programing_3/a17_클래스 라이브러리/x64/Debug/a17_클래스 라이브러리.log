@@ -1,17 +1,5 @@
 ﻿  17_main.cpp
-  GameObject.cpp
   Monster.cpp
-C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\a17_클래스 라이브러리\GameObject.cpp(7,15): error C2084: 'BattleObject::BattleObject(int,int,int)' 함수에 이미 본문이 있습니다.
-      C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\a17_클래스 라이브러리\GameObject.h(16,2):
-      'BattleObject::BattleObject'의 이전 정의를 참조하십시오.
-  
-C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\a17_클래스 라이브러리\GameObject.cpp(9,20): error C2084: 'void BattleObject::Damage(int)' 함수에 이미 본문이 있습니다.
-      C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\a17_클래스 라이브러리\GameObject.h(19,7):
-      'BattleObject::Damage'의 이전 정의를 참조하십시오.
-  
-C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\a17_클래스 라이브러리\GameObject.cpp(13,20): error C2084: 'bool BattleObject::IsDeath(void)' 함수에 이미 본문이 있습니다.
-      C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\a17_클래스 라이브러리\GameObject.h(20,7):
-      'BattleObject::IsDeath'의 이전 정의를 참조하십시오.
-  
   Player.cpp
   코드를 생성하고 있습니다...
+  a17_클래스 라이브러리.vcxproj -> C:\Users\user\Desktop\programing\SBSprograming-3st\Programing_3\x64\Debug\a17_클래스 라이브러리.lib
