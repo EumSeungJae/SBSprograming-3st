@@ -3,16 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C44AD915-4CA4-4DB8-9A04-9C5C33047743}|a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30\\a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30\\16_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C44AD915-4CA4-4DB8-9A04-9C5C33047743}|a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30\\a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30.vcxproj|solutionrelative:a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30\\16_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\project_mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\project_mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}|a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}|a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC.vcxproj|solutionrelative:a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}|a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EEAB5F99-CABB-4C17-98B7-89CC6F1A0FFE}|a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC.vcxproj|solutionrelative:a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Title.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Title.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AA9B9D5-5101-4987-964D-7C2656A3F9D7}|b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +74,213 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameObject.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.cpp",
-              "RelativeDocumentMoniker": "a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.cpp",
-              "RelativeToolTip": "a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "project_mian.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\project_mian.cpp",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\project_mian.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\project_mian.cpp",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\project_mian.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-06T08:00:27.646Z",
+              "WhenOpened": "2026-01-10T13:46:04.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameObject.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.h",
-              "RelativeDocumentMoniker": "a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.h",
-              "RelativeToolTip": "a17_\uD074\uB798\uC2A4 \uB77C\uC774\uBE0C\uB7EC\uB9AC\\GameObject.h",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Title": "Stage.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stage.h",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stage.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stage.h",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-06T07:57:54.016Z",
+              "WhenOpened": "2026-01-10T13:44:27.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "16_main.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30\\16_main.cpp",
-              "RelativeDocumentMoniker": "a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30\\16_main.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30\\16_main.cpp",
-              "RelativeToolTip": "a16_STL\uC5D0 \uB300\uD55C \uC774\uD574 \uD074\uB798\uC2A4 \uAD6C\uD604\uD558\uAE30\\16_main.cpp",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAUwMgAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Render.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.cpp",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.cpp",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-05T08:03:07.596Z",
+              "WhenOpened": "2026-01-10T13:43:23.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Battle.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.cpp",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.cpp",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-10T13:42:46.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.cpp",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.cpp",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-10T13:41:58.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Render.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.h",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.h",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Render.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-10T13:37:52.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Battle.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.h",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.h",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Battle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-10T13:37:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Monster.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.h",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.h",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Monster.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-10T13:37:28.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stats.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.h",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.h",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-10T13:35:06.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Player.h",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Player.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Player.h",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-10T13:37:17.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Title.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Title.h",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Title.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Title.h",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Title.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-10T13:38:00.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entity.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.h",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.h",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-10T13:28:05.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.cpp",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.cpp",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Entity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-10T13:28:02.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EquipmentType.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.cpp",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.cpp",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T11:12:04.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EquipmentType.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.h",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.h",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\EquipmentType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-06T11:11:11.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stats.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.cpp",
+              "RelativeDocumentMoniker": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\programing\\SBSprograming-3st\\Programing_3\\b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.cpp",
+              "RelativeToolTip": "b01_\uAC1C\uC778 \uD504\uB85C\uC81D\uD2B8\\Stats.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-10T13:35:44.809Z",
               "EditorCaption": ""
             }
           ]
